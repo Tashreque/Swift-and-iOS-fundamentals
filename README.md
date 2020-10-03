@@ -8,3 +8,6 @@ https://www.youtube.com/watch?v=P5uG-77mWa4&t=31s
 
 2. OPTIONALS
 Another fundamental topic in Swift is Optionals. Before getting into iOS development, having a clear understanding of optional variables is essential. This short video covers the roots of optional variables in Swift.
+
+Please refer to the video linked below:
+https://www.youtube.com/watch?v=cca-rGC5HwY
